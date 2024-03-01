@@ -10,3 +10,6 @@ let z = x();
 z();
 console.log(z);
 
+function hello(){
+    alert("hello")
+}
